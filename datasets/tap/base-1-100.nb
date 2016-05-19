@@ -1,0 +1,109 @@
+Beat      0  2
+Beat    140  0
+Beat    315  1
+Beat    455  0
+Beat    595  4
+Beat    735  0
+Beat    875  1
+Beat   1015  0
+Beat   1155  2
+Beat   1225  0
+Beat   1365  1
+Beat   1540  0
+Beat   1715  3
+Beat   1820  0
+Beat   1960  1
+Beat   2135  0
+Beat   2275  2
+Beat   2380  0
+Beat   2520  1
+Beat   2625  0
+Beat   2765  4
+Beat   2870  0
+Beat   3010  1
+Beat   3150  0
+Beat   3290  2
+Beat   3395  0
+Beat   3640  1
+Beat   3780  0
+Beat   3885  3
+Beat   4025  0
+Beat   4200  1
+Beat   4340  0
+Beat   4515  2
+Beat   4620  0
+Beat   4830  1
+Beat   4970  0
+Beat   5110  4
+Beat   5250  0
+Beat   5425  1
+Beat   5565  0
+Beat   5705  2
+Beat   5880  0
+Beat   5950  1
+Beat   6090  0
+Beat   6230  3
+Beat   6405  0
+Beat   6580  1
+Beat   6720  0
+Beat   6860  2
+Beat   7035  0
+Beat   7175  1
+Beat   7315  0
+Beat   7420  4
+Beat   7560  0
+Beat   7735  1
+Beat   7910  0
+Beat   8015  2
+Beat   8190  0
+Beat   8365  1
+Beat   8470  0
+Beat   8645  3
+Beat   8785  0
+Beat   8960  1
+Beat   9100  0
+Beat   9275  2
+Note      0     35  67
+Note    315    350  68
+Note    595    630  68
+Note    875    945  67
+Note   1015   1085  68
+Note   1155   1190  67
+Note   1225   1330  68
+Note   1365   1435  67
+Note   1715   1750  68
+Note   1960   2030  67
+Note   2135   2205  68
+Note   2275   2380  67
+Note   3010   3080  68
+Note   3395   3465  67
+Note   3535   3605  68
+Note   3640   3710  67
+Note   3780   3850  68
+Note   3885   3990  67
+Note   4200   4270  68
+Note   4515   4585  67
+Note   4620   4690  68
+Note   4830   4900  67
+Note   5110   5180  67
+Note   5425   5460  68
+Note   5705   5775  67
+Note   5880   5915  68
+Note   5950   6090  67
+Note   6090   6195  68
+Note   6230   6300  67
+Note   6580   6650  68
+Note   6860   6930  67
+Note   7035   7105  68
+Note   7175   7210  67
+Note   7315   7385  67
+Note   7420   7525  68
+Note   7735   7805  67
+Note   7910   7945  67
+Note   8015   8085  68
+Note   8365   8400  67
+Note   8470   8540  67
+Note   8645   8715  68
+Note   8960   9030  67
+Note   9100   9170  67
+Note   9275   9345  68
