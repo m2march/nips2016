@@ -106,7 +106,7 @@ datasets = {
 def main():
     results = {}
     for dataset_name, cases in datasets.items():
-        results[dataset_name] = scores_for_dataset(cases[:5])
+        results[dataset_name] = scores_for_dataset(cases)
 
     df = pandas.DataFrame.from_dict(results, orient='index')
     print df.to_latex(
